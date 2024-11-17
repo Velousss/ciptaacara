@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/image/favicon-32x32.png">
+    <script src="/assets/js/script.js" defer></script>
+    <title>FuelUP</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html" class="logo">FuelUP</a>
+        <nav class="navbar">
+            <a href="index.html">Home</a>
+            <a class="active" href="buy.html">Buy Now</a>
+            <a href="nearby.html">Nearby</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="icons">
+            <a href="login.html" class="btn">Login</a>
+            <i class="fas fa-bars" id="menu-bars"></i>
+        </div>
+    </header>
+
+    <div class="buy_banner">
+        <div>
+            <h1>Search for Nearby Gas Stations Here</h1>
+            <form action="result.html" method="get">
+                <input class="search" name="query" type="search" placeholder="Search Locations, Fuel Stations, etc" aria-label="Search" oninput="showSuggestions(this.value)">
+                <i><button class="btn" type="submit">Search</button></i>
+                <div class="suggestions"></div>
+            </form>
+        </div>
+    </div>
+
+    <div class="featured_listing">
+        <h1>Search Result</h1>
+        <div class="fuelup-card-container card">
+
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer_main">
+            <div class="footer_info">
+                <H2>FuelUP</H2>
+                <p>Jl. Kanan Kiri No.77</p>
+                <p>admin@fuelup.com</p>
+                <a href="tel-phone"><i class="fa fa-phone"></i> (+62) 812-3456-7890</a>
+            </div>
+            <div class="footer_link">
+                <h2>Links</h2>
+                <div class="link_column">
+                    <div>
+                        <a href="index.html">Home</a>
+                        <a href="buy.html">Buy Now</a>
+                        <a href="nearby.html">Nearby</a>
+                        <a href="about.html">About Us</a>
+                        <a href="contact.html">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_newsletter">
+                <h2>Subcribe to Our Newsletter</h2>
+                <label for="email">
+                    <input type="email" name="email" class="email"
+                        placeholder="Enter your e-mail"><i><button type="submit">Subscribe</button></i>
+                </label>
+                <div>
+                    <input type="checkbox" name="checkbox" class="term"> I have read and agree to the Privacy Policy
+                </div>
+            </div>
+        </div>
+        <div class="footer_secondary">
+            <p>FuelUP &copy 2024. All right reserved.</p>
+            <p></i><i class="fa fa-twitter"></i><i class="fa fa-instagram"></i><i class="fa fa-linkedin"></i></p>
+        </div>
+    </footer>
+    <script type="text/javascript" src="assets/js/script.js"></script>
+</body>
+
+</html>

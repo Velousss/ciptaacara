@@ -1,0 +1,92 @@
+[
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 1",
+    "types": "Type A",
+    "area": "Area 1",
+    "facilities": "Facility 1, Facility 2",
+    "others": "Other details 1",
+    "date": "2024-06-15"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 2",
+    "types": "Type B",
+    "area": "Area 2",
+    "facilities": "Facility 3, Facility 4",
+    "others": "Other details 2",
+    "date": "2024-06-14"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 3",
+    "types": "Type C",
+    "area": "Area 3",
+    "facilities": "Facility 5, Facility 6",
+    "others": "Other details 3",
+    "date": "2024-06-13"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 4",
+    "types": "Type D",
+    "area": "Area 4",
+    "facilities": "Facility 7, Facility 8",
+    "others": "Other details 4",
+    "date": "2024-06-12"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 5",
+    "types": "Type E",
+    "area": "Area 5",
+    "facilities": "Facility 9, Facility 10",
+    "others": "Other details 5",
+    "date": "2024-06-11"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 6",
+    "types": "Type F",
+    "area": "Area 6",
+    "facilities": "Facility 11, Facility 12",
+    "others": "Other details 6",
+    "date": "2024-06-10"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 7",
+    "types": "Type G",
+    "area": "Area 7",
+    "facilities": "Facility 13, Facility 14",
+    "others": "Other details 7",
+    "date": "2024-06-09"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 8",
+    "types": "Type H",
+    "area": "Area 8",
+    "facilities": "Facility 15, Facility 16",
+    "others": "Other details 8",
+    "date": "2024-06-08"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 9",
+    "types": "Type I",
+    "area": "Area 9",
+    "facilities": "Facility 17, Facility 18",
+    "others": "Other details 9",
+    "date": "2024-06-07"
+  },
+  {
+    "image": "assets/image/pertamina.jpg",
+    "name": "Pertamina Location 10",
+    "types": "Type J",
+    "area": "Area 10",
+    "facilities": "Facility 19, Facility 20",
+    "others": "Other details 10",
+    "date": "2024-06-06"
+  }
+]

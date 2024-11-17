@@ -18,15 +18,15 @@ fetch('/assets/json/data.json')
               <div class="property_title">
                 <a>${location.name}</a>
               </div>
-              <p>${location.types}</p>
+              <p>${location.region}</p>
               <hr>
-              <p>${location.area}</p>
+              <p>${location.skills}</p>
               <hr>
-              <p>${location.facilities}</p>
+              <p>${location.qualifications}</p>
               <hr>
-              <p>${location.others}</p>
+              <p>${location.features}</p>
               <hr>
-              <p>${location.date}</p>
+              <p>${location.rating}</p>
             </div>
           </div>`;
         card.insertAdjacentHTML('beforeend', markup);

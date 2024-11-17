@@ -6,17 +6,28 @@ menu.onclick = () => {
 }
 
 const locations = [
-    "Pertamina Location 1",
-    "Pertamina Location 2",
-    "Pertamina Location 3",
-    "Pertamina Location 4",
-    "Pertamina Location 5",
-    "Pertamina Location 6",
-    "Pertamina Location 7",
-    "Pertamina Location 8",
-    "Pertamina Location 9",
-    "Pertamina Location 10"
+  "Alfie Pratama",
+  "Rizki Aditya",
+  "Fitriani Putri",
+  "Aulia Ramadhan",
+  "Dian Saputra",
+  "Hendra Gunawan",
+  "Siti Nuraini",
+  "Bayu Santoso",
+  "Indah Lestari",
+  "Andi Prakoso",
+  "Rina Wulandari",
+  "Adi Suryanto",
+  "Wahyu Firmansyah",
+  "Maya Kusuma",
+  "Eka Widodo",
+  "Lia Anggraini",
+  "Fajar Mahendra",
+  "Tari Oktaviani",
+  "Niko Hardiansyah",
+  "Dewi Susanti"
 ];
+
 
 // suggestion box
 function showSuggestions(value) {
@@ -103,15 +114,15 @@ document.addEventListener("DOMContentLoaded", function () {
                                   <div class="property_title">
                                       <a>${matchingResult.name}</a>
                                   </div>
-                                  <p>${matchingResult.types}</p>
+                                  <p>${matchingResult.region}</p>
                                   <hr>
-                                  <p>${matchingResult.area}</p>
+                                  <p>${matchingResult.skills}</p>
                                   <hr>
-                                  <p>${matchingResult.facilities}</p>
+                                  <p>${matchingResult.qualifications}</p>
                                   <hr>
-                                  <p>${matchingResult.others}</p>
+                                  <p>${matchingResult.features}</p>
                                   <hr>
-                                  <p>${matchingResult.date}</p>
+                                  <p>${matchingResult.rating}</p>
                               </div>
                           </div>
                       `;

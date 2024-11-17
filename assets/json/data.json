@@ -1,92 +1,182 @@
 [
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 1",
-    "types": "Type A",
-    "area": "Area 1",
-    "facilities": "Facility 1, Facility 2",
-    "others": "Other details 1",
-    "date": "2024-06-15"
+    "image": "assets/image/profile1.jpg",
+    "name": "Alfie Pratama",
+    "region": "Jakarta",
+    "skills": "MICE Organizer",
+    "qualifications": "10+ years of experience in corporate events and conferences",
+    "features": "No Front Payment, Fast Response",
+    "rating": "4.96/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 2",
-    "types": "Type B",
-    "area": "Area 2",
-    "facilities": "Facility 3, Facility 4",
-    "others": "Other details 2",
-    "date": "2024-06-14"
+    "image": "assets/image/profile1.jpg",
+    "name": "Rizki Aditya",
+    "region": "Surabaya",
+    "skills": "Wedding Organizer",
+    "qualifications": "Certified wedding planner with over 200 successful events",
+    "features": "Affordable Packages, High Attention to Detail",
+    "rating": "4.89/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 3",
-    "types": "Type C",
-    "area": "Area 3",
-    "facilities": "Facility 5, Facility 6",
-    "others": "Other details 3",
-    "date": "2024-06-13"
+    "image": "assets/image/profile1.jpg",
+    "name": "Fitriani Putri",
+    "region": "Bandung",
+    "skills": "Special EO",
+    "qualifications": "Specialized in themed parties and festivals",
+    "features": "Creative Designs, On-Time Execution",
+    "rating": "4.78/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 4",
-    "types": "Type D",
-    "area": "Area 4",
-    "facilities": "Facility 7, Facility 8",
-    "others": "Other details 4",
-    "date": "2024-06-12"
+    "image": "assets/image/profile1.jpg",
+    "name": "Aulia Ramadhan",
+    "region": "Yogyakarta",
+    "skills": "Regular EO",
+    "qualifications": "Extensive experience in community events and corporate gatherings",
+    "features": "Customizable Plans, Flexible Scheduling",
+    "rating": "4.83/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 5",
-    "types": "Type E",
-    "area": "Area 5",
-    "facilities": "Facility 9, Facility 10",
-    "others": "Other details 5",
-    "date": "2024-06-11"
+    "image": "assets/image/profile1.jpg",
+    "name": "Dian Saputra",
+    "region": "Medan",
+    "skills": "MICE Organizer",
+    "qualifications": "Expert in large-scale meetings and exhibitions",
+    "features": "Detailed Planning, Competitive Pricing",
+    "rating": "4.91/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 6",
-    "types": "Type F",
-    "area": "Area 6",
-    "facilities": "Facility 11, Facility 12",
-    "others": "Other details 6",
-    "date": "2024-06-10"
+    "image": "assets/image/profile1.jpg",
+    "name": "Hendra Gunawan",
+    "region": "Semarang",
+    "skills": "Wedding Organizer",
+    "qualifications": "Known for unique wedding concepts and impeccable execution",
+    "features": "Luxury Packages, Friendly Team",
+    "rating": "4.72/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 7",
-    "types": "Type G",
-    "area": "Area 7",
-    "facilities": "Facility 13, Facility 14",
-    "others": "Other details 7",
-    "date": "2024-06-09"
+    "image": "assets/image/profile1.jpg",
+    "name": "Siti Nuraini",
+    "region": "Makassar",
+    "skills": "Regular EO",
+    "qualifications": "Experienced in organizing educational and cultural events",
+    "features": "Seamless Coordination, Cost-Effective Solutions",
+    "rating": "4.65/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 8",
-    "types": "Type H",
-    "area": "Area 8",
-    "facilities": "Facility 15, Facility 16",
-    "others": "Other details 8",
-    "date": "2024-06-08"
+    "image": "assets/image/profile1.jpg",
+    "name": "Bayu Santoso",
+    "region": "Bali",
+    "skills": "Special EO",
+    "qualifications": "Specialist in destination events and retreats",
+    "features": "Exceptional Creativity, Personalized Touch",
+    "rating": "4.88/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 9",
-    "types": "Type I",
-    "area": "Area 9",
-    "facilities": "Facility 17, Facility 18",
-    "others": "Other details 9",
-    "date": "2024-06-07"
+    "image": "assets/image/profile1.jpg",
+    "name": "Indah Lestari",
+    "region": "Palembang",
+    "skills": "MICE Organizer",
+    "qualifications": "Highly skilled in incentive travel and exhibitions",
+    "features": "Time Management, End-to-End Support",
+    "rating": "4.94/5.00"
   },
   {
-    "image": "assets/image/pertamina.jpg",
-    "name": "Pertamina Location 10",
-    "types": "Type J",
-    "area": "Area 10",
-    "facilities": "Facility 19, Facility 20",
-    "others": "Other details 10",
-    "date": "2024-06-06"
+    "image": "assets/image/profile1.jpg",
+    "name": "Andi Prakoso",
+    "region": "Aceh",
+    "skills": "Wedding Organizer",
+    "qualifications": "Over 5 years of experience in diverse cultural weddings",
+    "features": "Budget-Friendly, Tailored Services",
+    "rating": "4.76/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Rina Wulandari",
+    "region": "Banjarmasin",
+    "skills": "Regular EO",
+    "qualifications": "Successfully organized various school and office events",
+    "features": "Reliable Communication, Affordable Pricing",
+    "rating": "4.57/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Adi Suryanto",
+    "region": "Balikpapan",
+    "skills": "Special EO",
+    "qualifications": "Expert in launching products and exhibitions",
+    "features": "Cutting-Edge Solutions, Quick Setup",
+    "rating": "4.92/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Wahyu Firmansyah",
+    "region": "Padang",
+    "skills": "MICE Organizer",
+    "qualifications": "Proven track record in organizing high-profile conferences",
+    "features": "24/7 Availability, Flexible Packages",
+    "rating": "4.95/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Maya Kusuma",
+    "region": "Malang",
+    "skills": "Wedding Organizer",
+    "qualifications": "Creative and detail-oriented wedding specialist",
+    "features": "Elegant Design, Hassle-Free Planning",
+    "rating": "4.85/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Eka Widodo",
+    "region": "Pekanbaru",
+    "skills": "Regular EO",
+    "qualifications": "Focused on family and small business events",
+    "features": "Budget-Conscious, Dependable Team",
+    "rating": "4.68/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Lia Anggraini",
+    "region": "Batam",
+    "skills": "Special EO",
+    "qualifications": "Known for vibrant festivals and creative campaigns",
+    "features": "Innovative Concepts, Multilingual Support",
+    "rating": "4.90/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Fajar Mahendra",
+    "region": "Pontianak",
+    "skills": "MICE Organizer",
+    "qualifications": "Specialized in corporate networking and trade shows",
+    "features": "Professional Team, Transparent Pricing",
+    "rating": "4.87/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Tari Oktaviani",
+    "region": "Manado",
+    "skills": "Wedding Organizer",
+    "qualifications": "Specialist in destination and beach weddings",
+    "features": "Attention to Detail, Memorable Themes",
+    "rating": "4.84/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Niko Hardiansyah",
+    "region": "Tangerang",
+    "skills": "Regular EO",
+    "qualifications": "Passionate about organizing community and charity events",
+    "features": "Hands-On Support, Comprehensive Services",
+    "rating": "4.73/5.00"
+  },
+  {
+    "image": "assets/image/profile1.jpg",
+    "name": "Dewi Susanti",
+    "region": "Lombok",
+    "skills": "Special EO",
+    "qualifications": "Masterful in organizing intimate events with unique settings",
+    "features": "Exclusive Access, Flawless Coordination",
+    "rating": "4.93/5.00"
   }
 ]

@@ -1,182 +1,732 @@
 [
   {
+    "id": "1",
     "image": "assets/image/profile1.jpg",
     "name": "Alfie Pratama",
     "region": "Jakarta",
     "skills": "MICE Organizer",
     "qualifications": "10+ years of experience in corporate events and conferences",
     "features": "No Front Payment, Fast Response",
-    "rating": "4.96/5.00"
+    "rating": "🌟4.96"
   },
   {
+    "id": "2",
     "image": "assets/image/profile1.jpg",
     "name": "Rizki Aditya",
     "region": "Surabaya",
     "skills": "Wedding Organizer",
     "qualifications": "Certified wedding planner with over 200 successful events",
     "features": "Affordable Packages, High Attention to Detail",
-    "rating": "4.89/5.00"
+    "rating": "🌟4.89"
   },
   {
+    "id": "3",
     "image": "assets/image/profile1.jpg",
     "name": "Fitriani Putri",
     "region": "Bandung",
     "skills": "Special EO",
     "qualifications": "Specialized in themed parties and festivals",
     "features": "Creative Designs, On-Time Execution",
-    "rating": "4.78/5.00"
+    "rating": "🌟4.78"
   },
   {
+    "id": "4",
     "image": "assets/image/profile1.jpg",
     "name": "Aulia Ramadhan",
     "region": "Yogyakarta",
     "skills": "Regular EO",
     "qualifications": "Extensive experience in community events and corporate gatherings",
     "features": "Customizable Plans, Flexible Scheduling",
-    "rating": "4.83/5.00"
+    "rating": "🌟4.83"
   },
   {
+    "id": "5",
     "image": "assets/image/profile1.jpg",
     "name": "Dian Saputra",
     "region": "Medan",
     "skills": "MICE Organizer",
     "qualifications": "Expert in large-scale meetings and exhibitions",
     "features": "Detailed Planning, Competitive Pricing",
-    "rating": "4.91/5.00"
+    "rating": "🌟4.91"
   },
   {
+    "id": "6",
     "image": "assets/image/profile1.jpg",
     "name": "Hendra Gunawan",
     "region": "Semarang",
     "skills": "Wedding Organizer",
     "qualifications": "Known for unique wedding concepts and impeccable execution",
     "features": "Luxury Packages, Friendly Team",
-    "rating": "4.72/5.00"
+    "rating": "🌟4.72"
   },
   {
+    "id": "7",
     "image": "assets/image/profile1.jpg",
     "name": "Siti Nuraini",
     "region": "Makassar",
     "skills": "Regular EO",
     "qualifications": "Experienced in organizing educational and cultural events",
     "features": "Seamless Coordination, Cost-Effective Solutions",
-    "rating": "4.65/5.00"
+    "rating": "🌟4.65"
   },
   {
+    "id": "8",
     "image": "assets/image/profile1.jpg",
     "name": "Bayu Santoso",
     "region": "Bali",
     "skills": "Special EO",
     "qualifications": "Specialist in destination events and retreats",
     "features": "Exceptional Creativity, Personalized Touch",
-    "rating": "4.88/5.00"
+    "rating": "🌟4.88"
   },
   {
+    "id": "9",
     "image": "assets/image/profile1.jpg",
     "name": "Indah Lestari",
     "region": "Palembang",
     "skills": "MICE Organizer",
     "qualifications": "Highly skilled in incentive travel and exhibitions",
     "features": "Time Management, End-to-End Support",
-    "rating": "4.94/5.00"
+    "rating": "🌟4.94"
   },
   {
+    "id": "10",
     "image": "assets/image/profile1.jpg",
     "name": "Andi Prakoso",
     "region": "Aceh",
     "skills": "Wedding Organizer",
     "qualifications": "Over 5 years of experience in diverse cultural weddings",
     "features": "Budget-Friendly, Tailored Services",
-    "rating": "4.76/5.00"
+    "rating": "🌟4.76"
   },
   {
+    "id": "11",
     "image": "assets/image/profile1.jpg",
     "name": "Rina Wulandari",
     "region": "Banjarmasin",
     "skills": "Regular EO",
     "qualifications": "Successfully organized various school and office events",
     "features": "Reliable Communication, Affordable Pricing",
-    "rating": "4.57/5.00"
+    "rating": "🌟4.57"
   },
   {
+    "id": "12",
     "image": "assets/image/profile1.jpg",
     "name": "Adi Suryanto",
     "region": "Balikpapan",
     "skills": "Special EO",
     "qualifications": "Expert in launching products and exhibitions",
     "features": "Cutting-Edge Solutions, Quick Setup",
-    "rating": "4.92/5.00"
+    "rating": "🌟4.92"
   },
   {
+    "id": "13",
     "image": "assets/image/profile1.jpg",
     "name": "Wahyu Firmansyah",
     "region": "Padang",
     "skills": "MICE Organizer",
     "qualifications": "Proven track record in organizing high-profile conferences",
     "features": "24/7 Availability, Flexible Packages",
-    "rating": "4.95/5.00"
+    "rating": "🌟4.95"
   },
   {
+    "id": "14",
     "image": "assets/image/profile1.jpg",
     "name": "Maya Kusuma",
     "region": "Malang",
     "skills": "Wedding Organizer",
     "qualifications": "Creative and detail-oriented wedding specialist",
     "features": "Elegant Design, Hassle-Free Planning",
-    "rating": "4.85/5.00"
+    "rating": "🌟4.85"
   },
   {
+    "id": "15",
     "image": "assets/image/profile1.jpg",
     "name": "Eka Widodo",
     "region": "Pekanbaru",
     "skills": "Regular EO",
     "qualifications": "Focused on family and small business events",
     "features": "Budget-Conscious, Dependable Team",
-    "rating": "4.68/5.00"
+    "rating": "🌟4.68"
   },
   {
+    "id": "16",
     "image": "assets/image/profile1.jpg",
     "name": "Lia Anggraini",
     "region": "Batam",
     "skills": "Special EO",
     "qualifications": "Known for vibrant festivals and creative campaigns",
     "features": "Innovative Concepts, Multilingual Support",
-    "rating": "4.90/5.00"
+    "rating": "🌟4.90"
   },
   {
+    "id": "17",
     "image": "assets/image/profile1.jpg",
     "name": "Fajar Mahendra",
     "region": "Pontianak",
     "skills": "MICE Organizer",
     "qualifications": "Specialized in corporate networking and trade shows",
     "features": "Professional Team, Transparent Pricing",
-    "rating": "4.87/5.00"
+    "rating": "🌟4.87"
   },
   {
+    "id": "18",
     "image": "assets/image/profile1.jpg",
     "name": "Tari Oktaviani",
     "region": "Manado",
     "skills": "Wedding Organizer",
     "qualifications": "Specialist in destination and beach weddings",
     "features": "Attention to Detail, Memorable Themes",
-    "rating": "4.84/5.00"
+    "rating": "🌟4.84"
   },
   {
+    "id": "19",
     "image": "assets/image/profile1.jpg",
     "name": "Niko Hardiansyah",
     "region": "Tangerang",
     "skills": "Regular EO",
     "qualifications": "Passionate about organizing community and charity events",
     "features": "Hands-On Support, Comprehensive Services",
-    "rating": "4.73/5.00"
+    "rating": "🌟4.73"
   },
   {
+    "id": "20",
     "image": "assets/image/profile1.jpg",
     "name": "Dewi Susanti",
     "region": "Lombok",
     "skills": "Special EO",
     "qualifications": "Masterful in organizing intimate events with unique settings",
     "features": "Exclusive Access, Flawless Coordination",
-    "rating": "4.93/5.00"
+    "rating": "🌟4.93"
+  },
+  {
+    "id": "21",
+    "image": "assets/image/profile1.jpg",
+    "name": "Arif Hidayat",
+    "region": "Surabaya",
+    "skills": "MICE Organizer",
+    "qualifications": "Specialized in corporate events and trade shows",
+    "features": "Quick Setup, Personalized Service",
+    "rating": "🌟4.85"
+  },
+  {
+    "id": "22",
+    "image": "assets/image/profile1.jpg",
+    "name": "Tina Amalia",
+    "region": "Bandung",
+    "skills": "Wedding Organizer",
+    "qualifications": "Expert in intimate, elegant weddings",
+    "features": "Affordable Packages, Attention to Detail",
+    "rating": "🌟4.77"
+  },
+  {
+    "id": "23",
+    "image": "assets/image/profile1.jpg",
+    "name": "Budi Santoso",
+    "region": "Medan",
+    "skills": "Special EO",
+    "qualifications": "Experienced in large festivals and events",
+    "features": "Creative Concepts, Efficient Execution",
+    "rating": "🌟4.89"
+  },
+  {
+    "id": "24",
+    "image": "assets/image/profile1.jpg",
+    "name": "Citra Anggraini",
+    "region": "Makassar",
+    "skills": "MICE Organizer",
+    "qualifications": "Known for handling large corporate seminars and conferences",
+    "features": "24/7 Availability, Seamless Coordination",
+    "rating": "🌟4.92"
+  },
+  {
+    "id": "25",
+    "image": "assets/image/profile1.jpg",
+    "name": "Faisal Mahmud",
+    "region": "Palembang",
+    "skills": "Wedding Organizer",
+    "qualifications": "Specializes in destination weddings and luxury events",
+    "features": "Luxury Packages, Customizable Solutions",
+    "rating": "🌟4.80"
+  },
+  {
+    "id": "26",
+    "image": "assets/image/profile1.jpg",
+    "name": "Siti Nurul",
+    "region": "Bali",
+    "skills": "Regular EO",
+    "qualifications": "Expert in organizing community and cultural events",
+    "features": "Cost-Effective Solutions, Reliable Support",
+    "rating": "🌟4.65"
+  },
+  {
+    "id": "27",
+    "image": "assets/image/profile1.jpg",
+    "name": "Joko Widodo",
+    "region": "Yogyakarta",
+    "skills": "Wedding Organizer",
+    "qualifications": "Experienced in managing traditional weddings and cultural events",
+    "features": "Cultural Sensitivity, Detail-Oriented",
+    "rating": "🌟4.73"
+  },
+  {
+    "id": "28",
+    "image": "assets/image/profile1.jpg",
+    "name": "Lina Rahayu",
+    "region": "Medan",
+    "skills": "Special EO",
+    "qualifications": "Specializes in organizing product launches and media events",
+    "features": "Fast Response, Cutting-Edge Solutions",
+    "rating": "🌟4.95"
+  },
+  {
+    "id": "29",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rachmat Irawan",
+    "region": "Jakarta",
+    "skills": "MICE Organizer",
+    "qualifications": "10+ years in international conferences and trade fairs",
+    "features": "High-Quality Setup, Efficient Planning",
+    "rating": "🌟4.88"
+  },
+  {
+    "id": "30",
+    "image": "assets/image/profile1.jpg",
+    "name": "Eva Lestari",
+    "region": "Surabaya",
+    "skills": "Wedding Organizer",
+    "qualifications": "Well-versed in handling large and small weddings",
+    "features": "Elegant Themes, Stress-Free Planning",
+    "rating": "🌟4.90"
+  },
+  {
+    "id": "31",
+    "image": "assets/image/profile1.jpg",
+    "name": "Anwar Hidayat",
+    "region": "Tangerang",
+    "skills": "Regular EO",
+    "qualifications": "Specialist in corporate gatherings and community events",
+    "features": "Professionalism, Flexibility",
+    "rating": "🌟4.81"
+  },
+  {
+    "id": "32",
+    "image": "assets/image/profile1.jpg",
+    "name": "Fitri Kurniawati",
+    "region": "Palembang",
+    "skills": "Special EO",
+    "qualifications": "Known for handling unique corporate events",
+    "features": "Innovative Ideas, Dependable Team",
+    "rating": "🌟4.83"
+  },
+  {
+    "id": "33",
+    "image": "assets/image/profile1.jpg",
+    "name": "Siti Aisyah",
+    "region": "Batam",
+    "skills": "MICE Organizer",
+    "qualifications": "Extensive experience in trade shows and exhibitions",
+    "features": "Expert Coordination, Comprehensive Support",
+    "rating": "🌟4.70"
+  },
+  {
+    "id": "34",
+    "image": "assets/image/profile1.jpg",
+    "name": "Dina Pratiwi",
+    "region": "Semarang",
+    "skills": "Wedding Organizer",
+    "qualifications": "Experienced in organizing intimate wedding celebrations",
+    "features": "Tailored Services, High Attention to Detail",
+    "rating": "🌟4.77"
+  },
+  {
+    "id": "35",
+    "image": "assets/image/profile1.jpg",
+    "name": "Akhmad Rahmat",
+    "region": "Yogyakarta",
+    "skills": "Regular EO",
+    "qualifications": "Focused on community outreach and corporate events",
+    "features": "Seamless Execution, Affordable Solutions",
+    "rating": "🌟4.66"
+  },
+  {
+    "id": "36",
+    "image": "assets/image/profile1.jpg",
+    "name": "Indri Wulandari",
+    "region": "Bali",
+    "skills": "Wedding Organizer",
+    "qualifications": "Skilled in organizing beachfront and destination weddings",
+    "features": "Breathtaking Designs, Timely Delivery",
+    "rating": "🌟4.82"
+  },
+  {
+    "id": "37",
+    "image": "assets/image/profile1.jpg",
+    "name": "Nina Firmansyah",
+    "region": "Makassar",
+    "skills": "Special EO",
+    "qualifications": "Expert in large-scale concerts and festivals",
+    "features": "Innovative Concepts, Fast Execution",
+    "rating": "🌟4.87"
+  },
+  {
+    "id": "38",
+    "image": "assets/image/profile1.jpg",
+    "name": "Agus Setiawan",
+    "region": "Medan",
+    "skills": "MICE Organizer",
+    "qualifications": "Specializes in high-profile conferences and summits",
+    "features": "Reliable, Well-Planned Event Flow",
+    "rating": "🌟4.91"
+  },
+  {
+    "id": "39",
+    "image": "assets/image/profile1.jpg",
+    "name": "Lulu Amalia",
+    "region": "Bandung",
+    "skills": "Wedding Organizer",
+    "qualifications": "Creative wedding planner with 15+ years of experience",
+    "features": "Exquisite Designs, Stress-Free Planning",
+    "rating": "🌟4.80"
+  },
+  {
+    "id": "40",
+    "image": "assets/image/profile1.jpg",
+    "name": "Reza Pratama",
+    "region": "Surabaya",
+    "skills": "Special EO",
+    "qualifications": "Expert in organizing corporate galas and product launches",
+    "features": "Quick Setup, Flawless Execution",
+    "rating": "🌟4.85"
+  },
+  {
+    "id": "41",
+    "image": "assets/image/profile1.jpg",
+    "name": "Tanti Setiawati",
+    "region": "Jakarta",
+    "skills": "MICE Organizer",
+    "qualifications": "Experience in international corporate seminars and conferences",
+    "features": "24/7 Availability, Expert Coordination",
+    "rating": "🌟4.89"
+  },
+  {
+    "id": "42",
+    "image": "assets/image/profile1.jpg",
+    "name": "Hendra Widodo",
+    "region": "Medan",
+    "skills": "Wedding Organizer",
+    "qualifications": "Specializes in high-end, customized wedding planning",
+    "features": "Attention to Detail, Creative Designs",
+    "rating": "🌟4.78"
+  },
+  {
+    "id": "43",
+    "image": "assets/image/profile1.jpg",
+    "name": "Tanya Melati",
+    "region": "Tangerang",
+    "skills": "Special EO",
+    "qualifications": "Known for organizing large exhibitions and trade shows",
+    "features": "Efficient, Well-Coordinated Events",
+    "rating": "🌟4.91"
+  },
+  {
+    "id": "44",
+    "image": "assets/image/profile1.jpg",
+    "name": "Yulia Sari",
+    "region": "Palembang",
+    "skills": "Regular EO",
+    "qualifications": "Extensive experience in corporate events and office parties",
+    "features": "Reliable Support, Flexible Scheduling",
+    "rating": "🌟4.70"
+  },
+  {
+    "id": "45",
+    "image": "assets/image/profile1.jpg",
+    "name": "Mila Anggraini",
+    "region": "Bali",
+    "skills": "Wedding Organizer",
+    "qualifications": "Expert in organizing small intimate weddings and ceremonies",
+    "features": "Personalized Service, Elegant Concepts",
+    "rating": "🌟4.84"
+  },
+  {
+    "id": "46",
+    "image": "assets/image/profile1.jpg",
+    "name": "Gilang Pratama",
+    "region": "Makassar",
+    "skills": "MICE Organizer",
+    "qualifications": "Skilled in organizing international conferences and trade fairs",
+    "features": "On-Time Delivery, Professional Approach",
+    "rating": "🌟4.93"
+  },
+  {
+    "id": "47",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rika Novianti",
+    "region": "Jakarta",
+    "skills": "Special EO",
+    "qualifications": "Known for organizing large concerts and corporate events",
+    "features": "Fast Response, Creative Planning",
+    "rating": "🌟4.76"
+  },
+  {
+    "id": "48",
+    "image": "assets/image/profile1.jpg",
+    "name": "Maya Firdaus",
+    "region": "Semarang",
+    "skills": "Regular EO",
+    "qualifications": "Specialized in educational and cultural events",
+    "features": "Cost-Effective Solutions, Attention to Detail",
+    "rating": "🌟4.69"
+  },
+  {
+    "id": "49",
+    "image": "assets/image/profile1.jpg",
+    "name": "Toni Setyawan",
+    "region": "Bandung",
+    "skills": "Wedding Organizer",
+    "qualifications": "Over 10 years of experience in wedding planning",
+    "features": "Timely Service, Customizable Packages",
+    "rating": "🌟4.72"
+  },
+  {
+    "id": "50",
+    "image": "assets/image/profile1.jpg",
+    "name": "Irma Lestari",
+    "region": "Surabaya",
+    "skills": "Special EO",
+    "qualifications": "Known for organizing large-scale company retreats and conventions",
+    "features": "Professionalism, High-Quality Service",
+    "rating": "🌟4.80"
+  },
+  {
+    "id": "51",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rudi Suryanto",
+    "region": "Medan",
+    "skills": "MICE Organizer",
+    "qualifications": "Skilled in managing corporate conferences and networking events",
+    "features": "Seamless Coordination, Transparent Pricing",
+    "rating": "🌟4.95"
+  },
+  {
+    "id": "52",
+    "image": "assets/image/profile1.jpg",
+    "name": "Ardianto Mahendra",
+    "region": "Batam",
+    "skills": "Wedding Organizer",
+    "qualifications": "Creative in organizing traditional and modern weddings",
+    "features": "Innovative Themes, High Attention to Detail",
+    "rating": "🌟4.74"
+  },
+  {
+    "id": "53",
+    "image": "assets/image/profile1.jpg",
+    "name": "Ratna Sari",
+    "region": "Makassar",
+    "skills": "Regular EO",
+    "qualifications": "Experienced in organizing business conferences and exhibitions",
+    "features": "Professional Team, Cost-Effective Solutions",
+    "rating": "🌟4.66"
+  },
+  {
+    "id": "54",
+    "image": "assets/image/profile1.jpg",
+    "name": "Novi Nurul",
+    "region": "Jakarta",
+    "skills": "Special EO",
+    "qualifications": "Specialist in handling unique product launches and expos",
+    "features": "Efficient Planning, Creative Ideas",
+    "rating": "🌟4.90"
+  },
+  {
+    "id": "55",
+    "image": "assets/image/profile1.jpg",
+    "name": "Lina Dewi",
+    "region": "Surabaya",
+    "skills": "MICE Organizer",
+    "qualifications": "Skilled in organizing corporate networking events",
+    "features": "Reliable, Professional Service",
+    "rating": "🌟4.88"
+  },
+  {
+    "id": "56",
+    "image": "assets/image/profile1.jpg",
+    "name": "Dewi Purnama",
+    "region": "Bandung",
+    "skills": "Wedding Organizer",
+    "qualifications": "Expert in destination and themed weddings",
+    "features": "Timely Execution, Customizable Plans",
+    "rating": "🌟4.81"
+  },
+  {
+    "id": "57",
+    "image": "assets/image/profile1.jpg",
+    "name": "Fajar Pratama",
+    "region": "Yogyakarta",
+    "skills": "Special EO",
+    "qualifications": "Specialized in managing corporate conferences and expos",
+    "features": "Quick Setup, Seamless Coordination",
+    "rating": "🌟4.87"
+  },
+  {
+    "id": "58",
+    "image": "assets/image/profile1.jpg",
+    "name": "Santi Purnama",
+    "region": "Palembang",
+    "skills": "MICE Organizer",
+    "qualifications": "Known for managing global trade shows and summits",
+    "features": "Attention to Detail, Flexible Scheduling",
+    "rating": "🌟4.84"
+  },
+  {
+    "id": "59",
+    "image": "assets/image/profile1.jpg",
+    "name": "Asep Kurniawan",
+    "region": "Bali",
+    "skills": "Wedding Organizer",
+    "qualifications": "Skilled in organizing destination and beach weddings",
+    "features": "Personalized Touch, Timely Execution",
+    "rating": "🌟4.78"
+  },
+  {
+    "id": "60",
+    "image": "assets/image/profile1.jpg",
+    "name": "Liana Wulandari",
+    "region": "Medan",
+    "skills": "Regular EO",
+    "qualifications": "Focused on managing charity events and community outreach",
+    "features": "Budget-Friendly, Flexible Plans",
+    "rating": "🌟4.70"
+  },
+  {
+    "id": "61",
+    "image": "assets/image/profile1.jpg",
+    "name": "Ria Setyani",
+    "region": "Batam",
+    "skills": "Special EO",
+    "qualifications": "Experienced in corporate team-building events and retreats",
+    "features": "Customizable Packages, Great Value",
+    "rating": "🌟4.88"
+  },
+  {
+    "id": "62",
+    "image": "assets/image/profile1.jpg",
+    "name": "Mia Kurniawati",
+    "region": "Makassar",
+    "skills": "Wedding Organizer",
+    "qualifications": "Over 8 years of experience in planning destination weddings",
+    "features": "Elegant Themes, Hassle-Free Planning",
+    "rating": "🌟4.85"
+  },
+  {
+    "id": "63",
+    "image": "assets/image/profile1.jpg",
+    "name": "Alma Pratama",
+    "region": "Tangerang",
+    "skills": "MICE Organizer",
+    "qualifications": "Specialist in organizing international conferences",
+    "features": "Highly Organized, Efficient Planning",
+    "rating": "🌟4.92"
+  },
+  {
+    "id": "64",
+    "image": "assets/image/profile1.jpg",
+    "name": "Oki Firmansyah",
+    "region": "Palembang",
+    "skills": "Regular EO",
+    "qualifications": "Experienced in managing educational events",
+    "features": "Attention to Detail, Stress-Free Execution",
+    "rating": "🌟4.70"
+  },
+  {
+    "id": "65",
+    "image": "assets/image/profile1.jpg",
+    "name": "Cynthia Wijaya",
+    "region": "Surabaya",
+    "skills": "Special EO",
+    "qualifications": "Expert in organizing high-profile corporate events",
+    "features": "Innovative Ideas, Professional Service",
+    "rating": "🌟4.91"
+  },
+  {
+    "id": "66",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rudi Hidayat",
+    "region": "Yogyakarta",
+    "skills": "Wedding Organizer",
+    "qualifications": "Skilled in intimate wedding ceremonies",
+    "features": "Personalized Services, Memorable Themes",
+    "rating": "🌟4.74"
+  },
+  {
+    "id": "67",
+    "image": "assets/image/profile1.jpg",
+    "name": "Fauzi Santoso",
+    "region": "Bali",
+    "skills": "MICE Organizer",
+    "qualifications": "Proven track record in organizing trade shows and exhibitions",
+    "features": "Transparent Pricing, On-Time Delivery",
+    "rating": "🌟4.96"
+  },
+  {
+    "id": "68",
+    "image": "assets/image/profile1.jpg",
+    "name": "Indah Wulandari",
+    "region": "Semarang",
+    "skills": "Special EO",
+    "qualifications": "Known for organizing unique cultural events and festivals",
+    "features": "Creative Ideas, Well-Executed Events",
+    "rating": "🌟4.85"
+  },
+  {
+    "id": "69",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rini Amalia",
+    "region": "Medan",
+    "skills": "Wedding Organizer",
+    "qualifications": "Specialist in modern, minimalist weddings",
+    "features": "Creative Themes, Timely Coordination",
+    "rating": "🌟4.82"
+  },
+  {
+    "id": "70",
+    "image": "assets/image/profile1.jpg",
+    "name": "Teguh Pratama",
+    "region": "Makassar",
+    "skills": "Regular EO",
+    "qualifications": "Focused on handling corporate events and seminars",
+    "features": "Quick Response, Customizable Services",
+    "rating": "🌟4.79"
+  },
+  {
+    "id": "71",
+    "image": "assets/image/profile1.jpg",
+    "name": "Vivi Amirah",
+    "region": "Surabaya",
+    "skills": "MICE Organizer",
+    "qualifications": "Experienced in organizing exhibitions and conventions",
+    "features": "Professionalism, Transparent Solutions",
+    "rating": "🌟4.87"
+  },
+  {
+    "id": "72",
+    "image": "assets/image/profile1.jpg",
+    "name": "Rina Kurniawati",
+    "region": "Bandung",
+    "skills": "Special EO",
+    "qualifications": "Known for organizing corporate meetings and retreats",
+    "features": "Innovative Solutions, Dependable Support",
+    "rating": "🌟4.84"
+  },
+  {
+    "id": "73",
+    "image": "assets/image/profile1.jpg",
+    "name": "Angga Irawan",
+    "region": "Palembang",
+    "skills": "Wedding Organizer",
+    "qualifications": "Experienced in traditional and cultural weddings",
+    "features": "Cultural Sensitivity, Customizable Packages",
+    "rating": "🌟4.70"
   }
 ]

@@ -51,27 +51,52 @@ function showSuggestions(value) {
           div.onclick = () => {
             document.querySelector('.search').value = result.name;
             suggestions.innerHTML = '';
-            suggestions.style.display = 'none'; 
+            suggestions.style.display = 'none';
           };
           suggestions.appendChild(div);
         });
 
-        suggestions.style.display = filteredResults.length ? 'block' : 'none'; 
+        suggestions.style.display = filteredResults.length ? 'block' : 'none';
       })
       .catch(error => {
         console.error('Error fetching the results:', error);
         suggestions.style.display = 'none'; 
       });
   } else {
-    suggestions.style.display = 'none'; 
+    // Ketika tidak ada nilai pencarian, tampilkan semua saran (search all)
+    fetch('/assets/json/data.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(results => {
+        results.forEach(result => {
+          const div = document.createElement('div');
+          div.textContent = result.name;
+          div.onclick = () => {
+            document.querySelector('.search').value = result.name;
+            suggestions.innerHTML = '';
+            suggestions.style.display = 'none'; 
+          };
+          suggestions.appendChild(div);
+        });
+
+        suggestions.style.display = results.length ? 'block' : 'none';
+      })
+      .catch(error => {
+        console.error('Error fetching the results:', error);
+        suggestions.style.display = 'none'; 
+      });
   }
 }
 
 // result
 document.addEventListener("DOMContentLoaded", function () {
-  if (window.location.pathname.endsWith('result.html')) {
+  if (window.location.pathname.endsWith('result.html') || window.location.pathname.endsWith('mice.html') || window.location.pathname.endsWith('wedding.html') || window.location.pathname.endsWith('regular.html') || window.location.pathname.endsWith('special.html')) {
       const urlParams = new URLSearchParams(window.location.search);
-      const query = urlParams.get('query') || '';
+      const query = urlParams.get('query') || ''; // Ambil query pencarian
 
       fetch('/assets/json/data.json')
           .then(response => {
@@ -82,16 +107,35 @@ document.addEventListener("DOMContentLoaded", function () {
           })
           .then(results => {
               const resultContainer = document.querySelector('.featured_listing');
+              const category = window.location.pathname.split('/').pop().split('.')[0]; // Dapatkan kategori dari nama halaman
+              let matchingResults = [];
 
-              console.log(results.name)
-              resultContainer.innerHTML = '';
+              // Filter hasil pencarian berdasarkan kategori jika ada
+              if (query.trim()) {
+                  matchingResults = results.filter(result => 
+                      result.name && result.name.toLowerCase().includes(query.toLowerCase()) &&
+                      (category === 'mice' ? result.skills === 'MICE Organizer' : 
+                       category === 'wedding' ? result.skills === 'Wedding Organizer' : 
+                       category === 'regular' ? result.skills === 'Regular EO' : 
+                       category === 'special' ? result.skills === 'Special EO' : true)
+                  );
+              } else {
+                  // Jika tidak ada query, tampilkan semua hasil berdasarkan kategori
+                  matchingResults = results.filter(result => 
+                      category === 'mice' ? result.skills === 'MICE Organizer' : 
+                      category === 'wedding' ? result.skills === 'Wedding Organizer' : 
+                      category === 'regular' ? result.skills === 'Regular EO' : 
+                      category === 'special' ? result.skills === 'Special EO' : true
+                  );
+              }
 
-              const matchingResults = results.filter(result => result.name && result.name.toLowerCase().includes(query.toLowerCase()));
+              resultContainer.innerHTML = ''; // Kosongkan kontainer hasil
 
-              if (!query.trim()) {
+              // Tampilkan hasil pencarian
+              if (!query.trim() && matchingResults.length === 0) {
                   resultContainer.innerHTML = `
                       <h1>Search Result</h1>
-                      <p>Please enter a search query.</p>
+                      <p>Showing ${matchingResults.length} results.</p>
                   `;
               } else if (matchingResults.length === 0) {
                   resultContainer.innerHTML = `
@@ -101,6 +145,7 @@ document.addEventListener("DOMContentLoaded", function () {
               } else {
                   resultContainer.innerHTML = `
                       <h1>Search Result</h1>
+                      <p>Showing ${matchingResults.length} results.</p>
                       <div class="row custom-row"></div>
                   `;
                   let rowDiv = document.querySelector('.custom-row');
@@ -110,7 +155,7 @@ document.addEventListener("DOMContentLoaded", function () {
                       cardDiv.innerHTML = `
                           <div class="featured_listing_card">
                               <div class="featured_listing_card_info">
-                                  <img src="${matchingResult.image}">
+                                  <img src="${matchingResult.image}" alt="${matchingResult.name}">
                                   <div class="property_title">
                                       <a>${matchingResult.name}</a>
                                   </div>
@@ -140,3 +185,5 @@ document.addEventListener("DOMContentLoaded", function () {
           });
   }
 });
+
+

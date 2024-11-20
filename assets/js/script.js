@@ -168,6 +168,8 @@ document.addEventListener("DOMContentLoaded", function () {
                                   <p>${matchingResult.features}</p>
                                   <hr>
                                   <p>${matchingResult.rating}</p>
+                                  <hr>
+                                  <p>${matchingResult.phone}</p>
                               </div>
                           </div>
                       `;

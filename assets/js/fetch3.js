@@ -27,6 +27,8 @@ fetch('/assets/json/data.json')
               <p>${location.features}</p>
               <hr>
               <p>${location.rating}</p>
+              <hr>
+              <p>${location.phone}</p>
             </div>
           </div>`;
         card.insertAdjacentHTML('beforeend', markup);
